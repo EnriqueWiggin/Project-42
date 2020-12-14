@@ -1,8 +1,8 @@
 
 
-hr = hour()
-mn = minute()
-sc = second()
+hr = hour(); 
+mn = minute(); 
+sc = second();
 
 function setup() {
   createCanvas(800,400);
